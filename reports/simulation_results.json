@@ -1,0 +1,32 @@
+{
+    "Scenario_A_Slow": {
+        "eggs_laid": 132028.0,
+        "eggs_collected": 124936.0,
+        "eggs_broken": 7092.0,
+        "breakage_rate": 0.053715878450025754,
+        "utilization": 0.8973987438771351,
+        "max_queue": 94.23546511627907,
+        "avg_queue": 31.657487426291727,
+        "belt_capacity": 80.0
+    },
+    "Scenario_B_Medium": {
+        "eggs_laid": 132632.0,
+        "eggs_collected": 128095.0,
+        "eggs_broken": 4537.0,
+        "breakage_rate": 0.034207431087520355,
+        "utilization": 0.8667193983829108,
+        "max_queue": 70.02865329512893,
+        "avg_queue": 19.667201048905838,
+        "belt_capacity": 120.0
+    },
+    "Scenario_C_Fast": {
+        "eggs_laid": 131874.0,
+        "eggs_collected": 129152.0,
+        "eggs_broken": 2722.0,
+        "breakage_rate": 0.020640914812624173,
+        "utilization": 0.7610961676189891,
+        "max_queue": 46.48985507246377,
+        "avg_queue": 11.01879735889103,
+        "belt_capacity": 160.0
+    }
+}

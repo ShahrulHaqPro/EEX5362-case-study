@@ -1,27 +1,14 @@
-# Simulation Case Study
+# Egg Farm Case Study with SimPy
 
-### 🎯 Objective
-
-### 🧠 System Overview
-
-### ⚙️ Technologies Used
-
-### 🧩 Scenarios Tested
-
-### 🚀 How to Run
-1. Clone the repository:
-   
-
-2. Install dependencies:
+## Project Overview
+This simulation uses SimPy to model an egg production farm's collection system, analyzing optimal belt speeds to balance breakage rates and operational costs.
 
 
-3. Run the simulation:
-   
+## Quick Start
 
-### 🧾 Report
-Full project report included in [docs/](./docs/).
+# Install dependencies
+ matplotlib
+ simpy
 
-### 👤 Author
-**Shahrul Haq**  
-BSE Hons — The Open University of Sri Lanka  
-📅 October 2025
+# Run the simulation
+python run_simpy_simulation.py
